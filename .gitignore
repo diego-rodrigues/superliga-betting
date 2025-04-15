@@ -1,2 +1,5 @@
 .env
 NOTES.md
+*/node_modules
+*.env
+chatgpt
